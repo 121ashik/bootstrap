@@ -1,0 +1,24 @@
+
+.container-fluid{
+    background-color:var(--bs-red);
+    text-align: center;
+    margin-bottom: 2px;
+    height:100px;
+    line-height: 100px;
+}
+.container{
+    margin-bottom: 2px;
+}
+#clum2{
+    background-color: aqua;
+    height: 400px;
+    
+}
+#clum1{
+    background-color:#94DE62;
+    height: 400px;
+}
+#footer{
+    margin-top: 2px;
+    height: 100px;
+}
